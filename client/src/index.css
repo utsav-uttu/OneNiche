@@ -1,0 +1,35 @@
+@import "./styles/theme.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Page container */
+.page {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 24px;
+}
+
+/* Headings */
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
+
+/* Links */
+a {
+  text-decoration: none;
+  color: inherit;
+}

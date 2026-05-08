@@ -1,0 +1,83 @@
+[
+    {
+        "category": "Creative Arts",
+        "hobbies": [
+            "Painting",
+            "Sketching",
+            "Digital Art",
+            "Photography",
+            "Pottery",
+            "Knitting",
+            "Writing",
+            "Origami",
+            "Calligraphy",
+            "Music Production"
+        ]
+    },
+    {
+        "category": "Technology & Science",
+        "hobbies": [
+            "Coding",
+            "Game Development",
+            "Robotics",
+            "3D Printing",
+            "Astronomy",
+            "Electronics",
+            "Data Science",
+            "Cybersecurity",
+            "AI/ML",
+            "Blockchain"
+        ]
+    },
+    {
+        "category": "Physical & Outdoors",
+        "hobbies": [
+            "Hiking",
+            "Yoga",
+            "Running",
+            "Cycling",
+            "Rock Climbing",
+            "Gardening",
+            "Martial Arts",
+            "Swimming",
+            "Camping",
+            "Dancing"
+        ]
+    },
+    {
+        "category": "Gaming & Strategy",
+        "hobbies": [
+            "Chess",
+            "Video Games",
+            "Board Games",
+            "Poker",
+            "Puzzle Solving",
+            "Esports",
+            "Tabletop RPGs"
+        ]
+    },
+    {
+        "category": "Education & Learning",
+        "hobbies": [
+            "Reading",
+            "Language Learning",
+            "History",
+            "Philosophy",
+            "Psychology",
+            "Debating",
+            "Investing"
+        ]
+    },
+    {
+        "category": "Lifestyle & Social",
+        "hobbies": [
+            "Cooking",
+            "Baking",
+            "Travel",
+            "Volunteering",
+            "Fashion",
+            "Makeup Artistry",
+            "Meditation"
+        ]
+    }
+]
